@@ -54,4 +54,4 @@ TC8: Price=350, Discount=0.1, Quantity=11 — all conditions apply
 
 **Објаснување на напишаните unit tests**
 
-Со тестовите се покриени сите Every Statement и Multiple Condition можности
+Со тестовите се покриени сите Every Statement и Multiple Condition можности со assert
